@@ -8,7 +8,7 @@
 ## Notes:
 - Configuration Provider : `Github Gist`
 - Deployment Pipeline: `Github Actions`
-- Deployment Infra: `Github Pages`
+- Deployment Infra: `Github Pages` 
 
 ## Steps:
 1. [Optional] Build/run webapp locally:
